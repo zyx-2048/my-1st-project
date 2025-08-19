@@ -1,0 +1,28 @@
+图片预测结果
+============================================================
+模型: D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\mnist_emp_model.pth
+输入目录: D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\input_images
+时间: 2025-08-19 02:12:24
+反转颜色: 否
+============================================================
+
+图片名称                           预测结果       置信度             预处理图片路径
+--------------------------------------------------------------------------------
+1-0.png                        1          100.00%         D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_1-0.png
+1-1.png                        1          94.91%          D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_1-1.png
+1-2.png                        8          55.98%          D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_1-2.png
+2-0.png                        2          99.99%          D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_2-0.png
+2-1.png                        2          100.00%         D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_2-1.png
+3-0.png                        3          100.00%         D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_3-0.png
+3-1.png                        3          100.00%         D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_3-1.png
+4-0.png                        4          100.00%         D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_4-0.png
+5-0.png                        5          100.00%         D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_5-0.png
+6-0.png                        6          99.94%          D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_6-0.png
+7-0.png                        7          100.00%         D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_7-0.png
+7-1.png                        7          100.00%         D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_7-1.png
+8-0.png                        8          99.99%          D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_8-0.png
+8-1.png                        2          95.36%          D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_8-1.png
+9-0.png                        9          99.99%          D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_9-0.png
+9-1.png                        EMP        100.00%         D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_9-1.png
+glasses-1.png                  EMP        88.00%          D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_glasses-1.png
+tree-1.png                     9          81.57%          D:\WAIT-before-to-git\my-1st-project\mnist-emp-project\preprocessed_images\preprocessed_tree-1.png
