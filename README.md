@@ -54,9 +54,9 @@ mnist-emp-project/
 ├── out-test.py             # 预测脚本
 ├── mnist_emp_model.pth     # 训练好的模型
 ├── prediction_results.txt  # 预测结果
-├── requirements.txt        # 相关依赖
-└── LICENSE                 # 许可证
+└── requirements.txt        # 相关依赖
 README.md                   # 说明文档
+LICENSE                     # 许可证
 ```
 
 ## 使用方法
