@@ -143,7 +143,7 @@ python out-test.py --keep_cache --show_images
 
 
 
-项目维护者：**zyx_2048**
+项目维护者：**zyx-2048**
 
 电子邮箱：zhengyunxiao543@163.com
 
